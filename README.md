@@ -1,2 +1,3 @@
-# SE-Project
-restaurant management system
+# restaurant management system
+
+online restaurant management system for customer and admin 
